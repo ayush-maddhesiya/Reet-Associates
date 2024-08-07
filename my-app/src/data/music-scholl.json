@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Panel Manufacturer",
+      "slug": "panel-manufacturer",
+      "description": "Design, manufacture, and supply a wide range of custom and standard panels for various industries including automotive, construction, and electronics. Our expertise lies in [specific materials or technologies]."
+    },
+    {
+      "id": 2,
+      "title": "Lighting Manufacturer",
+      "slug": "lighting-manufacturer",
+      "description": "Produce high-quality lighting solutions for both indoor and outdoor applications. Our product range includes [list of products, e.g., LED lights, street lights, commercial lighting]. We offer customization options to meet specific client needs."
+    },
+    {
+      "id": 3,
+      "title": "Electrical Consultancy",
+      "slug": "electrical-consultancy",
+      "description": "Provide expert electrical engineering and design services. Our team assists clients with project planning, system optimization, and compliance with electrical codes. We specialize in [specific areas, e.g., renewable energy, power distribution]."
+    },
+    {
+      "id": 4,
+      "title": "Electrical Contractor",
+      "slug": "electrical-contractor",
+      "description": "Offer comprehensive electrical installation and maintenance services for residential, commercial, and industrial clients. Our services include wiring, lighting, power systems, and electrical repairs."
+    },
+    {
+      "id": 5,
+      "title": "Interior Design and Contracting",
+      "slug": "interior-design-contracting",
+      "description": "Transform spaces with innovative interior design solutions. Our services encompass conceptualization, planning, and execution of interior projects. We specialize in [specific styles or areas, e.g., residential, commercial, hospitality]."
+    },
+    {
+      "id": 6,
+      "title": "Natural Gas Distribution",
+      "slug": "natural-gas-distribution",
+      "description": "Deliver reliable and efficient natural gas distribution services to residential and commercial customers. Our network ensures uninterrupted supply and meets safety standards."
+    },
+    {
+      "id": 7,
+      "title": "Government Civil Contractor",
+      "slug": "government-civil-contractor",
+      "description": "Undertake civil construction projects for government agencies, including roads, bridges, public buildings, and infrastructure development. We adhere to strict quality and safety standards."
+    }
+  ]
+}
